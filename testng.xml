@@ -1,0 +1,8 @@
+<suite name="SchemaValidationSuite">
+   <test name="SchemaValidationTests">
+       <classes>
+           <class name="com.restassured.schema.validation.JsonSchemaValidationTest"/>
+           <class name="com.restassured.schema.validation.XmlSchemaValidationTest"/>
+       </classes>
+   </test>
+</suite>
